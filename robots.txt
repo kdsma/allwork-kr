@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://allwork.kr/sitemap.xml
+
+# 올인력 (All-In-People) · 사업대행 파트너
+# https://allwork.kr
